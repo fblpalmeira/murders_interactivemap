@@ -1,8 +1,11 @@
-# Visualizando os assassinatos decorrentes de conflitos no campo no Brasil
+## #30DayMapChallenge - Days 10 and 11: A bad (red) map 
 
-Estou estudando os assassinatos causados por conflitos no campo registrados pela [Comissão Pastoral da Terra](https://www.cptnacional.org.br/downlods/category/5-assassinatos). Para complementar os dados da Comissão Pastoral da Terra, inseri o nome do bioma onde cada assassinato ocorreu. Ainda adicionarei os demais dados referentes aos anos anteriores a 2012. 
+Living in a landscape of fear: occurrence of murders caused by land and socioenvironmental conflicts in the last ten years in Brazil. Data from [Comissão Pastoral da Terra](https://www.cptnacional.org.br/downlods/category/5-assassinatos).  
 
-O diagrama abaixo mostra que nos últimos dez anos (2012 a 2021) a maioria dos assassinatos causados por conflitos no campo ocorreu no bioma Amazônia, seguido pela Mata Atlântica, Cerrado e Caatinga. Pará, Rondônia, Maranhão, Bahia, Mato Grosso e Amazonas foram os estados que tiveram mais assassinatos. A maioria era sem terra, indígena, assentado, posseiro, quilombola, trabalhador rural, entre outras vítimas. Quase 90% era do sexo masculino. Cerca de 30% era liderança na sua comunidade. Para mais informações, acesse o [gráfico interativo](https://rpubs.com/fblpalmeira/assassinatos_CPT).
+🔗Interactive map: https://rpubs.com/fblpalmeira/murders_interactivemap
+
+🔗R code: https://github.com/fblpalmeira/murders_interactivemap
+ 
 
 - [Script `.R`](https://github.com/fblpalmeira/murders_interactivemap/blob/main/data/murders_interctivemap.R)
 
