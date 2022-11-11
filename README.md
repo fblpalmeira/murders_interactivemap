@@ -6,7 +6,7 @@ O diagrama abaixo mostra que nos últimos dez anos (2012 a 2021) a maioria dos a
 
 - [Código `.R`](https://github.com/fblpalmeira/assassinatos_CPT/blob/main/assassinatos_10y_sankey.R)
 
-- [Planilha de dados `.xls`](https://github.com/fblpalmeira/assassinatos_CPT/blob/main/assassinatos_10y_CPT.xls)
+- [Planilha de dados `.xls`](https://github.com/fblpalmeira/murders_interactivemap/blob/main/data/assassinatos_v7.xls)
 
 <img src="https://github.com/fblpalmeira/assassinatos_CPT/blob/main/network.png"/>
 
