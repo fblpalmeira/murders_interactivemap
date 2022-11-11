@@ -14,6 +14,6 @@ See also RPubs Page: https://rpubs.com/fblpalmeira/Jaguar_Paraguay
 
 ## References
 
-Joe Cheng, Bhaskar Karambelkar and Yihui Xie. 2022. leaflet: Create Interactive Web Maps with the JavaScript 'Leaflet' Library. R package version 2.1.1.
+Joe Cheng, Bhaskar Karambelkar and Yihui Xie. 2022. [leaflet: Create Interactive Web Maps with the JavaScript 'Leaflet' Library.](https://CRAN.R-project.org/package=leaflet) R package version 2.1.1. 
 
 CPT (2022). [Massacre no campo: dados de assassinatos da Comissão Pastoral da Terra](https://www.cptnacional.org.br/downlods/category/5-assassinatos).
