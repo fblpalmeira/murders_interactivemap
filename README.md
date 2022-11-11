@@ -13,8 +13,6 @@ Living in a landscape of fear: occurrence of murders caused by land and socioenv
 
 <img src="https://github.com/fblpalmeira/murders_interactivemap/blob/main/data/murders_interctivemap.png"/>
 
-See also RPubs Page: https://rpubs.com/fblpalmeira/Jaguar_Paraguay
-
 ## References
 
 Joe Cheng, Bhaskar Karambelkar and Yihui Xie. 2022. [leaflet: Create Interactive Web Maps with the JavaScript 'Leaflet' Library.](https://CRAN.R-project.org/package=leaflet) R package version 2.1.1. 
