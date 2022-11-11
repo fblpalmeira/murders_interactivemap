@@ -10,8 +10,10 @@ O diagrama abaixo mostra que nos últimos dez anos (2012 a 2021) a maioria dos a
 
 <img src="https://github.com/fblpalmeira/murders_interactivemap/blob/main/data/murders_interctivemap.png"/>
 
+See also RPubs Page: https://rpubs.com/fblpalmeira/Jaguar_Paraguay
+
 ## References
 
-Allaire JJ, et al. (2017). [Package ‘networkD3’. D3 JavaScript network graphs from R](https://mran.revolutionanalytics.com/web/packages/networkD3/networkD3.pdf).
+Joe Cheng, Bhaskar Karambelkar and Yihui Xie. 2022. leaflet: Create Interactive Web Maps with the JavaScript 'Leaflet' Library. R package version 2.1.1.
 
 CPT (2022). [Massacre no campo: dados de assassinatos da Comissão Pastoral da Terra](https://www.cptnacional.org.br/downlods/category/5-assassinatos).
