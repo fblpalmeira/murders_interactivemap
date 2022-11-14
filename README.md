@@ -6,7 +6,6 @@ Living in a landscape of fear: occurrence of murders caused by land and socioenv
 
 🔗R code: https://github.com/fblpalmeira/murders_interactivemap
  
-
 - [Script `.R`](https://github.com/fblpalmeira/murders_interactivemap/blob/main/data/murders_interctivemap.R)
 
 - [Data `.xls`](https://github.com/fblpalmeira/murders_interactivemap/blob/main/data/assassinatos_v7.xls)
