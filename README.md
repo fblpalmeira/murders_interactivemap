@@ -3,8 +3,6 @@
 Living in a landscape of fear: occurrence of murders caused by land and socioenvironmental conflicts in the last ten years in Brazil. Data from [Comissão Pastoral da Terra](https://www.cptnacional.org.br/downlods/category/5-assassinatos).  
 
 🔗Interactive map: https://rpubs.com/fblpalmeira/murders_interactivemap
-
-🔗R code: https://github.com/fblpalmeira/murders_interactivemap
  
 - [Script `.R`](https://github.com/fblpalmeira/murders_interactivemap/blob/main/data/murders_interctivemap.R)
 
