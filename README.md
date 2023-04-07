@@ -1,6 +1,6 @@
-## #30DayMapChallenge - Days 10 and 11: A bad (red) map 
+## Living in a landscape of fear
 
-Living in a landscape of fear: occurrence of murders caused by land and socioenvironmental conflicts in the last ten years in Brazil. Data from [Comissão Pastoral da Terra](https://www.cptnacional.org.br/downlods/category/5-assassinatos).  
+Occurrence of murders caused by land and socioenvironmental conflicts in the last ten years in Brazil. Data from [Comissão Pastoral da Terra](https://www.cptnacional.org.br/downlods/category/5-assassinatos).  
 
 🔗Interactive map: https://rpubs.com/fblpalmeira/murders_interactivemap
  
